@@ -1,0 +1,10 @@
+
+https://en.wikipedia.org/wiki/Simon_(game)
+
+4 Buttons:
+
+Color   | Position    | Sound
+ Blue   | Lower-Right | E     
+ Yellow | Lower-Left  | C#    
+ Red    | Upper-Right | A     
+ Green  | Upper-Left  | E (Octave lower than Blue) 
